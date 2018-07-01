@@ -1,0 +1,2 @@
+Bootstrap: docker
+From: overcookedfrog/novocraft:3.09.00
